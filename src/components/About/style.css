@@ -1,0 +1,44 @@
+.container-1{
+    position:relative;
+    width: 600px;
+    height: 500px;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 80px;
+    text-align: center;
+}
+
+.about-Name {
+    font-weight: 100;
+    letter-spacing: 6;
+    font-size: 40px;
+color: Black
+}
+
+h2 {
+    font-weight: 100;
+    letter-spacing: 1;
+    font-size:36px
+}
+
+
+.profile-pic {
+    border-radius:50%;
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-color: white;
+    border-width: 6px;
+    border-radius:50%;
+    }
+
+ p{
+    font-size:24px
+        
+        }
+ .line-break{
+            width: 200px;
+            margin:0 auto;
+            border-top: 1px solid black
+        }
+

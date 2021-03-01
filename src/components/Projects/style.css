@@ -1,0 +1,44 @@
+.project-icons2{
+    font-size:50px;
+}
+.project-icons2 a{
+    color:white;
+
+}
+.project-icons2 a:hover{
+    color: grey
+}
+
+.project-box {
+    
+     position:relative;
+    background: url(back4.png)no-repeat;
+  background-size: cover;
+    background-position: center;
+    height: 150vh;
+     padding: 10rem;
+     color: white;
+     margin: 0 auto;
+     margin-top: 15rem;
+     text-align: center; 
+ }
+ 
+ .project-icons1{
+    font-size:60px;
+    
+}
+.project-icons1 a{
+    color:white;
+
+}
+.project-icons3{
+    font-size:50px;
+}
+.project-icons3 a{
+    color:white
+}
+
+.projectName{
+    color:black
+
+}
