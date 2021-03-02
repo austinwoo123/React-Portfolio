@@ -5,6 +5,7 @@ import picture from "./aw.png"
 function About() {
     return (
         <div className="container-1">
+            <div id="about"></div>
             <div className="about">
                 <img src={picture} className="profile-pic"></img>
                 <h1 class="about-Name">Austin Woo</h1>

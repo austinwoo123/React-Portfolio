@@ -9,7 +9,7 @@ function Projects() {
     return (
 
         <div className="project-box">
-
+            <div id="project"></div>
             <h1 className="projectName">Projects</h1>
 
             <div className="line-break3"></div>

@@ -8,6 +8,7 @@ const Header = () => {
                 <h1>Welcome to my Portfolio!</h1>
             </div>
             <div className="contact-box">
+                <div id="contact"></div>
                 <img src={contact} class="contact-pic"></img>
                 <h1>Contact Me</h1>
                 <div class="line-break1"></div>

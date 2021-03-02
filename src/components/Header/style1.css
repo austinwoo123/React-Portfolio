@@ -49,7 +49,10 @@ h1 {
 }
 
 .line-break1{
-    width: 200px;
+    width: 350px;
     margin:0 auto;
     border-top: 1px solid white
+}
+.fab {
+    margin-right: 4rem;
 }

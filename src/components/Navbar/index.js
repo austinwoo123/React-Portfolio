@@ -14,17 +14,17 @@ function Nav() {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav ms-auto">
                         <li className="nav-item">
-                            <a className="nav-link" href="#">About</a>
+                            <a className="nav-link" href="#about">About</a>
                         </li>
 
                         <li className="nav-item active">
-                            <a className="nav-link" href="#">Projects </a>
+                            <a className="nav-link" href="#project">Projects </a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Contact</a>
+                            <a className="nav-link" href="#contact">Contact</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Resume</a>
+                            <a className="nav-link" href="https://docs.google.com/document/d/1LdAOp-bRTcsdBAv9UFHx_WJeeYfgQIe1h7Du_NGFm_o/edit?usp=sharing">Resume</a>
                         </li>
 
                     </ul>
