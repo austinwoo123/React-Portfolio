@@ -4,6 +4,7 @@ import project2 from "./covidTracker.png";
 import project3 from "./password.png";
 import project4 from "./planner.png";
 import project5 from "./project5.png";
+import project6 from "./project6.png";
 import style from "./style.css"
 function Projects() {
     return (
@@ -50,6 +51,18 @@ function Projects() {
                 <div className="project-icons1">
                     <a href="https://ancient-wave-96254.herokuapp.com/" target="_blank"><i className="fab fa-github-square"></i></a>
                     <a href="https://github.com/austinwoo123/Database-Crawler" target="_blank"><i
+                        className="fas fa-code-branch"></i></a>
+                </div>
+
+
+            </div>
+
+            <div className="project-icons5">
+                <img className="anim" className="project3-pic" width="400" height="300" src={project6} alt="project img" ></img>
+                <p className="project5">Google Books Search App</p>
+                <div className="project-icons1">
+                    <a href="https://ancient-peak-31427.herokuapp.com" target="_blank"><i className="fab fa-github-square"></i></a>
+                    <a href="https://github.com/austinwoo123/deploy-google-search" target="_blank"><i
                         className="fas fa-code-branch"></i></a>
                 </div>
 
