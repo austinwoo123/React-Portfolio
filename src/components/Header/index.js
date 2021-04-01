@@ -10,7 +10,7 @@ const Header = () => {
             <div className="contact-box">
                 <div id="contact"></div>
                 <img src={contact} class="contact-pic"></img>
-                <h1>Contact Me</h1>
+                <h1>Contact</h1>
                 <div class="line-break1"></div>
                 <div className="social-icons">
                     <a href="https://github.com/austinwoo123" target="_blank"><i className="fab fa-github-square"></i></a>
