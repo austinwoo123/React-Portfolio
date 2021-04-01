@@ -24,7 +24,7 @@ function Nav() {
                             <a className="nav-link" href="#contact">Contact</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="https://docs.google.com/document/d/1LdAOp-bRTcsdBAv9UFHx_WJeeYfgQIe1h7Du_NGFm_o/edit?usp=sharing">Resume</a>
+                            <a className="nav-link" href="https://drive.google.com/file/d/1qBGJApAAvnDcW0TvoqngeBi0vvfVAieH/view?usp=sharing">Resume</a>
                         </li>
 
                     </ul>

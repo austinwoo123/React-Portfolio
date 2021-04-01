@@ -16,7 +16,7 @@ I used React to create a new and updated portfolio.
 
 -----------------------
 ## Deployed Link
-[Link to Deployed Site](https://enigmatic-castle-29617.herokuapp.com/)
+[Link to Deployed Site](https://leads-force.herokuapp.com/)
 
 -----------------------
 ## How to Start

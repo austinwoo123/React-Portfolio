@@ -57,7 +57,7 @@ function Projects() {
 
             </div>
 
-            <div className="project-icons5">
+            {/* <div className="project-icons5">
                 <img className="anim" className="project3-pic" width="400" height="300" src={project6} alt="project img" ></img>
                 <p className="project5">Google Books Search App</p>
                 <div className="project-icons1">
@@ -67,7 +67,7 @@ function Projects() {
                 </div>
 
 
-            </div>
+            </div> */}
 
         </div>
     )
