@@ -22,7 +22,7 @@ export default function Footer() {
                             <div className="col-6">
                                 <h5 className="card-title">Austin Woo</h5>
                                 <div class='footer-link-items'>
-                                    <a href='https://enigmatic-castle-29617.herokuapp.com/'>Portfolio</a> <br />
+                                    <a href='https://austin-woo.herokuapp.com/'>Portfolio</a> <br />
                                     <a href='https://github.com/austinwoo123'>Github</a> <br />
                                     <a href='https://www.linkedin.com/in/awoo95/'>LinkedIn</a> <br />
                                     <a href='mailto: awoo004@ucr.edu'>Email</a>
