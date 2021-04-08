@@ -18,17 +18,17 @@ export default function Footer() {
             <div className="container">
                 <div className="card bg-white text-white">
                     <div className="row">
-                        <div className="col">
-                            <div className="col-6">
-                                <h5 className="card-title">Austin Woo</h5>
-                                <div class='footer-link-items'>
-                                    <a href='https://austin-woo.herokuapp.com/'>Portfolio</a> <br />
-                                    <a href='https://github.com/austinwoo123'>Github</a> <br />
-                                    <a href='https://www.linkedin.com/in/awoo95/'>LinkedIn</a> <br />
-                                    <a href='mailto: awoo004@ucr.edu'>Email</a>
-                                </div>
-                            </div>
+                        {/* <div className="col"> */}
+                        {/* <div className="col-6"> */}
+                        <h5 className="card-title">Austin Woo</h5>
+                        <div class='footer-link-items'>
+                            <a href='https://austin-woo.herokuapp.com/'>Portfolio</a> <br />
+                            <a href='https://github.com/austinwoo123'>Github</a> <br />
+                            <a href='https://www.linkedin.com/in/awoo95/'>LinkedIn</a> <br />
+                            <a href='mailto: awoo004@ucr.edu'>Email</a>
                         </div>
+                        {/* </div> */}
+                        {/* </div> */}
 
                         <small className='website-rights'> &copy;{new Date().getFullYear()} MIT | All rights reserved</small>
                     </div>
