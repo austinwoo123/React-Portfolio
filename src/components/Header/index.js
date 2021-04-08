@@ -12,7 +12,7 @@ const Header = () => {
                 <img src={contact} class="contact-pic"></img>
                 <h1>Contact</h1>
                 <div class="line-break1"></div>
-                <div className="social-icons">
+                <div className="social-icons1">
                     <a href="https://github.com/austinwoo123" target="_blank"><i className="fab fa-github-square"></i></a>
                     <a href="https://www.linkedin.com/in/awoo95/" target="_blank"><i className="fab fa-linkedin"></i></a>
                     <a href="mailto:awoo004@ucr.edu" target="_blank"><i className="fas fa-envelope"></i></a>
